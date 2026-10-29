@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tresimp
-- I’m interested in Pentesting
-- I’m currently learning Cybersecurity
+- Interested in Pentesting, Network & Cybersecurity
 - I’m looking to collaborate on CTF or anything!
 - Reach me thru email!
 
